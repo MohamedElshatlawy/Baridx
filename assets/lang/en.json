@@ -1,0 +1,27 @@
+{
+  "app_name": "Barid",
+  "customer_info": "Customer Info",
+  "name": "Name",
+  "phone_number": "Phone Number",
+  "address": "Address",
+  "next": "Next",
+  "package_details": "Package Details",
+  "package_type": "Package Type",
+  "field_required": "This Field Is Required",
+  "enter_valid_phone_number": "Please enter a valid phone number",
+  "delivery_note": "Delivery Note",
+  "weight": "Weight",
+  "payment": "Payment",
+  "payment_method": "Payment Method",
+  "credit_card": "Credit Card",
+  "cash_on_delivery": "Cash on Delivery",
+  "pay_later": "Pay Later",
+  "card_number": "card number",
+  "enter_select_payment_method": "Please select payment method",
+  "enter_valid_card_number": "Please enter a valid credit card number",
+  "enter_min_13_digits": "Credit card number must be at least 13 digits",
+  "review_and_submit": "Review And Submit",
+  "submit": "submit",
+  "request_submitted_successfully": "Your request is submitted successfully"
+
+}

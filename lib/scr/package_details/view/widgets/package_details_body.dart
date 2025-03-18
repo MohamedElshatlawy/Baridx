@@ -51,7 +51,7 @@ class _PackageDetailsBodyState extends State<PackageDetailsBody> {
                 )!.translate('package_type'),
                 hintText: AppLocalizations.of(
                   context,
-                )!.translate('phone_number'),
+                )!.translate('package_type'),
               ),
               value:
                   widget.viewModel.packageTypeValue.isEmpty
